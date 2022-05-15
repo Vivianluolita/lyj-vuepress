@@ -1,10 +1,14 @@
 module.exports = {
   title: 'lyj-vuepress',
   description: 'a blog',
+  dest: './dist',//默认在.vuepress下
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/image/logo.jpeg' }],
     //增加manifest.json
     ['link', { rel: 'manifest', href: '/manifest.json' }],
+    //增加manifest.json
+    ['link', { rel: 'stylesheet', href: '/css/style.css' }],
+    ['script', { charset: 'utf-8', href: '/js/main.js' }],
   ],
   base: '/', // 这是部署到github相关的配置
   markdown: {

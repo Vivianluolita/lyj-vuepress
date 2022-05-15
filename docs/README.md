@@ -1,6 +1,7 @@
 ---
 home: true
-heroImage: /logo.jpg
+# 默认的跟路径就是public
+heroImage: /image/logo.jpeg 
 actionText: 快速上手 →
 actionLink: /zh/guide/
 features:
