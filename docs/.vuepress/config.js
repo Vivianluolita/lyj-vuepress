@@ -10,7 +10,7 @@ module.exports = {
     ['link', { rel: 'stylesheet', href: '/css/style.css' }],
     ['script', { charset: 'utf-8', href: '/js/main.js' }],
   ],
-  base: '/dist/', // 这是部署到github相关的配置
+  base: './', // 这是部署到github相关的配置
   markdown: {
     lineNumbers: false // 代码块显示行号
   },
