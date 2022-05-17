@@ -2,6 +2,7 @@ module.exports = {
   title: 'lyj-vuepress',
   description: 'a blog',
   dest: './dist',//默认在.vuepress下
+  base: '/lyj-vuepress/dist/', // 这是部署到github相关的配置
   head: [
     ['link', { rel: 'icon', href: '/image/logo.jpeg' }],
     //增加manifest.json
@@ -10,7 +11,6 @@ module.exports = {
     ['link', { rel: 'stylesheet', href: '/css/style.css' }],
     ['script', { charset: 'utf-8', href: '/js/main.js' }],
   ],
-  base: './', // 这是部署到github相关的配置
   markdown: {
     lineNumbers: false // 代码块显示行号
   },
