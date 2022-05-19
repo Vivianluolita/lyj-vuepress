@@ -1,8 +1,8 @@
 module.exports = {
   title: 'lyj-vuepress',
   description: 'a blog',
-  dest: './dist',//默认在.vuepress下
-  base: '/lyj-vuepress/dist/', // 这是部署到github相关的配置
+  dest: '.vuepress/dist',//默认在.vuepress下
+  base: './lyj-vuepress/', // 这是部署到github相关的配置
   head: [
     ['link', { rel: 'icon', href: '/image/logo.jpeg' }],
     //增加manifest.json
