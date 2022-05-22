@@ -1,7 +1,7 @@
 module.exports = [
 
   {
-    title: '知码学院',
+    title: 'Electron开发实战',
     collapsable: true,
     children: [
       '/baodian/zero/two',
