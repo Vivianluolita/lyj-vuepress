@@ -209,3 +209,32 @@ deskdesktopdesktopCapture：捕获我们的桌面流：截屏啊，屏幕的视�
 
 - 模块安装 wait on 和 concurently（同时执行多个命令）
 ![111](../../.vuepress/public/image/electron/53.png)
+
+### 生成随机数，并且控制
+![111](../../.vuepress/public/image/electron/54.png)
+
+### 桌视频流的捕获，桌面流的捕获
+
+- 视频流的捕获
+![111](../../.vuepress/public/image/electron/55.png)
+![111](../../.vuepress/public/image/electron/56.png)
+![111](../../.vuepress/public/image/electron/57.png)
+![111](../../.vuepress/public/image/electron/58.png)
+![111](../../.vuepress/public/image/electron/59.png)
+
+- 桌面流的捕获
+
+![111](../../.vuepress/public/image/electron/60.png)
+
+### 指令的响应
+
+- reboot。js
+
+![111](../../.vuepress/public/image/electron/61.png)
+![111](../../.vuepress/public/image/electron/62.png)
+![111](../../.vuepress/public/image/electron/63.png)
+![111](../../.vuepress/public/image/electron/64.png)
+![111](../../.vuepress/public/image/electron/65.png)
+
+- 鼠标响应事件缩放
+![111](../../.vuepress/public/image/electron/66.png)

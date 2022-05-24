@@ -13,14 +13,15 @@ cd docs/.vuepress/dist
 # echo 'www.example.com' > CNAME
 
 git init
+git remote add origin https://github.com/Vivianluolita/lyj-vuepress.git
 git add -A
 git commit -m 'deploy'
-
+git branch -M gh-pages
 # if you are deploying to https://<USERNAME>.github.io
-# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
+git push -f git@github.com:Vivianluolita/lyj-vuepress.git gh-pages
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 # npm run deploy 之后自动会在仓库里生成gh-pages
-git push -f git@github.com:Vivianluolita/lyj-vuepress.git master:gh-pages
+# git push -f git@github.com:Vivianluolita/lyj-vuepress.git master:gh-pages
 
 cd -
