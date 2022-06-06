@@ -5,6 +5,8 @@ module.exports = [
   {
     text: '前端学习', link: '/baodian/',
     items: [
+      { text: '评论封装', link: '/baodian/comment/three' },
+      { text: '富文本编辑器', link: '/baodian/editor/three' },
       { text: 'electron', link: '/baodian/zero/two' },
       { text: '中高进阶篇', link: '/baodian/high/one' },
     ]
