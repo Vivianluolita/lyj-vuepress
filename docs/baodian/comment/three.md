@@ -14,4 +14,15 @@
 ![111](../../.vuepress/public/image/comments/09.png)
 ![111](../../.vuepress/public/image/comments/10.png)
 
-- 
+### [彻底理解 vue 的 .sync 修饰符](https://www.bilibili.com/video/BV1WQ4y1q7be?spm_id_from=..search-card.all.click)
+
+- 原理以及使用场景
+![111](../../.vuepress/public/image/comments/11.png)
+![111](../../.vuepress/public/image/comments/14.png)
+
+- 使用
+
+![111](../../.vuepress/public/image/comments/12.png)
+
+![111](../../.vuepress/public/image/comments/13.png)
+
