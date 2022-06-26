@@ -45,3 +45,29 @@
 ![111](../../.vuepress/public/image/comments/31.png)
 ![111](../../.vuepress/public/image/comments/32.png)
 
+### 资料
+
+
+
+> vue 双向绑定(v-model 双向绑定、.sync 双向绑定、.sync 传对象)
+
+- [vue封装组件双向绑定](https://segmentfault.com/a/1190000040655672)
+> @input="handleInput" :value="value1"
+
+- [vue封装组件双向绑定](https://www.i4k.xyz/article/lucky___star/88565634)
+> 定义组件时的 model 选项，从而实现了自定义组件 v-model 功能
+
+- [vue 封装组件 实现自定义双向绑定](https://www.superweb999.com/article/1302892.html)
+> 定义组件时的 model 选项，从而实现了自定义组件 v-model 功能
+
+- [vue 封装组件 嵌套两层组件，最外面一层](https://www.superweb999.com/article/1302892.html)
+> 定义组件时的 model 选项，从而实现了自定义组件 v-model 功能
+
+- [vue 动态创建不同的组件 利用循环遍历 component is 解决问题](https://blog.csdn.net/jmszl1991/article/details/109366670)
+- [vue 动态创建不同的组件 利用循环遍历 component is 解决问题](https://blog.csdn.net/H_O_W_E/article/details/111581331)
+
+### b站其他
+
+- [【Vue高级】sync修饰符的原理和作用](https://www.bilibili.com/video/BV1pV411S7GZ?spm_id_from=..search-card.all.click)
+
+![111](../../.vuepress/public/image/comments/33.png)
