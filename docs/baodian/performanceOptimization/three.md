@@ -1,10 +1,46 @@
-### 动态组件
+### 查看渲染
 
 
-![111](../../.vuepress/public/image/comments/04.png)
+![111](../../.vuepress/public/image/performanceOptimization/01.png)
+![111](../../.vuepress/public/image/performanceOptimization/02.png)
+![111](../../.vuepress/public/image/performanceOptimization/03.png)
+![111](../../.vuepress/public/image/performanceOptimization/04.png)
+![111](../../.vuepress/public/image/performanceOptimization/05.png)
+![111](../../.vuepress/public/image/performanceOptimization/07.png)
 
 
-### 组件封装
+### [优化前端页面](https://www.bilibili.com/video/BV1CD4y1X7V5?p=4&vd_source=55f2748683e944b85c80a2f1a2c8cac3)
+
+- 防止后台图片尺寸不同而影响页面
+
+![111](../../.vuepress/public/image/performanceOptimization/06.png)
+
+- overflow ， magin负值
+![111](../../.vuepress/public/image/performanceOptimization/08.png)
+
+- first-child
+![111](../../.vuepress/public/image/performanceOptimization/09.png)
+
+- 代码快速生成
+![111](../../.vuepress/public/image/performanceOptimization/10.png)
+![111](../../.vuepress/public/image/performanceOptimization/11.png)
+![111](../../.vuepress/public/image/performanceOptimization/15.png)
+![111](../../.vuepress/public/image/performanceOptimization/16.png)
+![111](../../.vuepress/public/image/performanceOptimization/17.png)
+
+- 利用溢出隐藏和宽度计算差值 写页面
+
+![111](../../.vuepress/public/image/performanceOptimization/12.png)
+
+- 伪元素
+![111](../../.vuepress/public/image/performanceOptimization/13.png)
+![111](../../.vuepress/public/image/performanceOptimization/14.png)
+
+- a标签撑满相应父级
+![111](../../.vuepress/public/image/performanceOptimization/15.png)
+
+
+
 
 - sync（传入属性，和传入对象的写法。并且它是通过传入prop，并且可以监听。而且可以改变prop的值。）
 ![111](../../.vuepress/public/image/comments/05.png)

@@ -1,9 +1,9 @@
 module.exports = [
   {
-    title: 'editor',
+    title: 'qqMusic',
     collapsable: true,
     children: [
-      '/baodian/editor/three',
+      '/baodian/qqMusic/three',
     ]
   },
 ]

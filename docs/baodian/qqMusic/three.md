@@ -1,20 +1,26 @@
-### 动态组件
+### jsonp装跨域获取url数据
 
 
-![111](../../.vuepress/public/image/comments/04.png)
+![111](../../.vuepress/public/image/qqMusic/01.png)
+![111](../../.vuepress/public/image/qqMusic/02.png)
+![111](../../.vuepress/public/image/qqMusic/03.png)
+![111](../../.vuepress/public/image/qqMusic/04.png)
+![111](../../.vuepress/public/image/qqMusic/05.png)
 
 
-### 组件封装
+### better scroll
 
 - sync（传入属性，和传入对象的写法。并且它是通过传入prop，并且可以监听。而且可以改变prop的值。）
-![111](../../.vuepress/public/image/comments/05.png)
-![111](../../.vuepress/public/image/comments/06.png)
-![111](../../.vuepress/public/image/comments/07.png)
-![111](../../.vuepress/public/image/comments/08.png)
-![111](../../.vuepress/public/image/comments/09.png)
-![111](../../.vuepress/public/image/comments/10.png)
+![111](../../.vuepress/public/image/qqMusic/06.png)
+![111](../../.vuepress/public/image/qqMusic/07.png)
+![111](../../.vuepress/public/image/qqMusic/08.png)
+![111](../../.vuepress/public/image/qqMusic/09.png)
+![111](../../.vuepress/public/image/qqMusic/10.png)
+![111](../../.vuepress/public/image/qqMusic/11.png)
 
-### [彻底理解 vue 的 .sync 修饰符](https://www.bilibili.com/video/BV1WQ4y1q7be?spm_id_from=..search-card.all.click)
+### express创建新路由调用qq换header后台接口
+![111](../../.vuepress/public/image/qqMusic/12.png)
+![111](../../.vuepress/public/image/qqMusic/13.png)
 
 - 原理以及使用场景
 ![111](../../.vuepress/public/image/comments/11.png)

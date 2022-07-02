@@ -1,4 +1,4 @@
-## electron基础
+### electron基础
 
 - 如何判断项目有无electron
 
@@ -213,7 +213,7 @@ deskdesktopdesktopCapture：捕获我们的桌面流：截屏啊，屏幕的视�
 ### 生成随机数，并且控制
 ![111](../../.vuepress/public/image/electron/54.png)
 
-### 桌视频流的捕获，桌面流的捕获
+<!-- ### 桌视频流的捕获，桌面流的捕获
 
 - 视频流的捕获
 ![111](../../.vuepress/public/image/electron/55.png)
@@ -237,4 +237,4 @@ deskdesktopdesktopCapture：捕获我们的桌面流：截屏啊，屏幕的视�
 ![111](../../.vuepress/public/image/electron/65.png)
 
 - 鼠标响应事件缩放
-![111](../../.vuepress/public/image/electron/66.png)
+![111](../../.vuepress/public/image/electron/66.png) -->
