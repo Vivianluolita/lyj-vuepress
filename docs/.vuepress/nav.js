@@ -11,6 +11,8 @@ module.exports = [
       { text: 'electron', link: '/baodian/zero/two' },
       { text: '中高进阶篇', link: '/baodian/high/one' },
       { text: '性能优化', link: '/baodian/performanceOptimization/three' },
+      { text: '组件封装', link: '/baodian/componentPack/three' },
+      { text: '权限管理', link: '/baodian/permission/three' },
     ]
   },
   {

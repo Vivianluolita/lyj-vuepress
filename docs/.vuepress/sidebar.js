@@ -10,4 +10,5 @@ module.exports = {
   '/baodian/editor': require('../baodian/editor/sidebar'),
   '/baodian/performanceOptimization': require('../baodian/performanceOptimization/sidebar'),
   '/baodian/componentPack': require('../baodian/componentPack/sidebar'),
+  '/baodian/permission': require('../baodian/permission/sidebar'),
 }	

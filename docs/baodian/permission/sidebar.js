@@ -1,9 +1,9 @@
 module.exports = [
   {
-    title: 'componentPack',
+    title: 'permission',
     collapsable: true,
     children: [
-      '/baodian/componentPack/three',
+      '/baodian/permission/three',
     ]
   },
 ]
