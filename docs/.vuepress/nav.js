@@ -13,6 +13,7 @@ module.exports = [
       { text: '性能优化', link: '/baodian/performanceOptimization/three' },
       { text: '组件封装', link: '/baodian/componentPack/three' },
       { text: '权限管理', link: '/baodian/permission/three' },
+      { text: '插件快捷键等', link: '/baodian/plugin/three' },
     ]
   },
   {

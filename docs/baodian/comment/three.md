@@ -73,3 +73,40 @@
 ![111](../../.vuepress/public/image/comments/33.png)
 ![111](../../.vuepress/public/image/comments/34.png)
 ![111](../../.vuepress/public/image/comments/35.png)
+
+### emit() 传递两个参数
+
+```
+
+父组件页面
+<div v-if="item.itemComment && item.itemComment.length">
+  <div :key="indexTwo + 'index7'" v-for="(items,indexTwo) in item.itemComment">
+    <div>
+      <!-- 评论列表 -->
+      <CommentItem
+        :ifReply='ifReply'
+        v-bind.sync='items'
+        :index="index"
+        :indexTwo="indexTwo"
+        :saveOperateFlag="saveOperateFlag"
+        @delComment="delComment($event,indexTwo)"
+        @addReply="addReply($event,indexTwo)"
+      />
+    </div>
+</div>    
+
+delComment(argumentses,indexTwo){
+      // let ifNewComment
+      let _this = this
+      console.log("当前editor数组index",argumentses)
+      console.log("当前评论对象数组index",indexTwo)
+}  
+
+子组件页面
+
+btnCancel(event){
+  console.log("cancel",event)
+  console.log("cancel index",this.index)
+  this.$emit('delComment',this.index,this.indexTwo)
+},
+```
