@@ -9,3 +9,18 @@
 
 ```
 ![111](../../.vuepress/public/image/componentPack/01.png)
+
+
+### dialog
+
+### radio（1. slot只有两层 2. 父元素外层v-model绑定 3. computed中转并emit）
+
+![111](../../.vuepress/public/image/componentPack/307.png)
+![111](../../.vuepress/public/image/componentPack/308.png)
+![111](../../.vuepress/public/image/componentPack/309.png)
+![111](../../.vuepress/public/image/componentPack/310.png)
+
+### radio-group（1. slot只有三层，借助provide inject 让孙子元素知道 radio-grop在变化 2. 父元素外层v-model绑定 3. computed中转并emit）
+
+![111](../../.vuepress/public/image/componentPack/311.png)
+![111](../../.vuepress/public/image/componentPack/312.png)
